@@ -1,4 +1,4 @@
-Kawkaw Core
+Kawkaw Core.
 ==================================
 
 https://Kawkawcoin.org
